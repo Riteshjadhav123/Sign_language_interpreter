@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🤟 SignBridge AI
+  # 🤟 AI Sign Language Interpreter
   ### **Real-Time ASL Gesture to Text & Speech Translation Engine**
 
   [![Python Version](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -18,7 +18,7 @@
 
 ## 📖 Overview
 
-**SignBridge AI** is an intelligent, real-time American Sign Language (ASL) finger-spelling recognition system. It bridges the communication gap by instantly capturing hand gestures from a standard webcam, classifying signs using a custom **Convolutional Neural Network (CNN)**, auto-correcting words with NLP dictionary suggestion algorithms, and pronouncing translated sentences via **Text-to-Speech (TTS)**.
+The **AI Sign Language Interpreter** is an intelligent, real-time American Sign Language (ASL) finger-spelling recognition system. It bridges the communication gap by instantly capturing hand gestures from a standard webcam, classifying signs using a custom **Convolutional Neural Network (CNN)**, auto-correcting words with NLP dictionary suggestion algorithms, and pronouncing translated sentences via **Text-to-Speech (TTS)**.
 
 ---
 
